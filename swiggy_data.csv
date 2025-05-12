@@ -1,0 +1,277 @@
+Food Item,Price (INR),Restaurant,Rating
+Veggie Feast,309.0,Pizza Hut,3.3
+Tandoori Paneer,309.0,Pizza Hut,3.8
+Double Cheese,309.0,Pizza Hut,4.7
+Chicken Pepperoni,379.0,Pizza Hut,3.6
+Classic Chicken,379.0,Pizza Hut,4.6
+Chicken Tikka,379.0,Pizza Hut,4.2
+Veggie Supreme,429.0,Pizza Hut,4.1
+Chicken Supreme,499.0,Pizza Hut,3.5
+Chicken Italiano,499.0,Pizza Hut,3.1
+Margherita,199.0,Pizza Hut,3.9
+Chicken Sausage,269.0,Pizza Hut,3.4
+Veggie Feast Meal for 2,699.0,Pizza Hut,4.5
+Chicken Delight Meal for 2,749.0,Pizza Hut,3.8
+Classic Meal for 4,1149.0,Pizza Hut,3.1
+Supreme Meal for 4,1299.0,Pizza Hut,4.4
+Garlic Bread Stix,119.0,Pizza Hut,4.0
+Garlic Bread Spicy Supreme,169.0,Pizza Hut,3.0
+Cheesy Dip,30.0,Pizza Hut,3.8
+Zesty Paneer Pocket,99.0,Pizza Hut,3.4
+Spiced Chicken Meatballs,129.0,Pizza Hut,3.3
+Creamy Garlic Bread,139.0,Pizza Hut,4.2
+Tandoori Pocket Paneer,109.0,Pizza Hut,3.5
+Tandoori Pocket Chicken,129.0,Pizza Hut,3.5
+Pepsi 475ml,57.0,Pizza Hut,4.6
+Pepsi Black Can 300ml,49.0,Pizza Hut,3.6
+Pepsi PET 1.25 Ltr,99.0,Pizza Hut,4.7
+Mirinda 475ml,57.0,Pizza Hut,4.2
+7 Up 475ml,57.0,Pizza Hut,4.6
+Chocolate Lava Cake,109.0,Pizza Hut,4.7
+Masala Lassi,99.0,Sardar Ji Restaurant,3.2
+Chilli Mushroom Dry,299.0,Sardar Ji Restaurant,4.4
+Hyderabadi Veg Dum Biryani,219.0,Sardar Ji Restaurant,3.6
+Chole Bhatoore,158.0,Sardar Ji Restaurant,4.5
+Paneer Paratha,72.0,Sardar Ji Restaurant,4.3
+Paneer Butter Masala,229.0,Sardar Ji Restaurant,4.0
+Kadhai Paneer,239.0,Sardar Ji Restaurant,3.8
+Kadhai Mushroom,279.0,Sardar Ji Restaurant,3.4
+Mix Veg Curry,189.0,Sardar Ji Restaurant,3.5
+Mushroom Biryani,249.0,Sardar Ji Restaurant,3.8
+Kadhi Chawal,179.0,Sardar Ji Restaurant,4.6
+Chole Chawal,169.0,Sardar Ji Restaurant,4.0
+Tandoori Gobhi Paratha WITH DAHI,165.0,Sardar Ji Restaurant,4.0
+Tandoori Aloo Paratha WITH DAHI,165.0,Sardar Ji Restaurant,3.1
+Daal Chawal,169.0,Sardar Ji Restaurant,4.4
+Tandoori Paneer Corn Paratha WITH DAHI,175.0,Sardar Ji Restaurant,3.6
+Tandoori Methi Paratha With Dahi,165.0,Sardar Ji Restaurant,3.6
+Tandoori Mirchi Paratha WITH DAHI,175.0,Sardar Ji Restaurant,4.8
+Tandoori Pudina Paratha With Dahi,165.0,Sardar Ji Restaurant,3.7
+Veg Thali,279.0,Sardar Ji Restaurant,4.7
+Gulab Jamun (2pc),79.0,Sardar Ji Restaurant,4.2
+Kesar Rasmalai,99.0,Sardar Ji Restaurant,3.5
+Mixed Fruit Custard,111.0,Sardar Ji Restaurant,3.4
+Rabri,99.0,Sardar Ji Restaurant,3.5
+Desi Ghee Suji Halwa,111.0,Sardar Ji Restaurant,3.1
+Spl Meethi Kheer,95.0,Sardar Ji Restaurant,4.7
+Choco Chips Brownie,89.0,Sardar Ji Restaurant,3.7
+Veg Corn Sandwich,135.0,Sardar Ji Restaurant,5.0
+Paneer Corn Sandwich,145.0,Sardar Ji Restaurant,4.7
+Paneer Tikka Sandwich,165.0,Sardar Ji Restaurant,3.1
+BUTTER Pav Bhaji,149.0,Sardar Ji Restaurant,3.5
+2pc Plain Paratha With Aloo Dum Dry,185.0,Sardar Ji Restaurant,3.1
+Dilli Chole Kulche,149.0,Sardar Ji Restaurant,4.7
+Poori Sabji,135.0,Sardar Ji Restaurant,4.5
+Veg Manchurian,259.0,Marwari Rasoi,5.0
+Boondi Raita (Sweet),89.0,Marwari Rasoi,4.0
+Chilli Paneer,259.0,Marwari Rasoi,4.5
+Rajasthani Gatta,219.0,Marwari Rasoi,3.8
+Paneer Hyderabadi,289.0,Marwari Rasoi,4.4
+Phulka Roti,15.0,Marwari Rasoi,4.1
+Aloo Paratha,60.0,Marwari Rasoi,3.7
+Paneer Paratha,90.0,Marwari Rasoi,3.8
+Sattu Paratha,60.0,Marwari Rasoi,3.4
+Onion Paratha,60.0,Marwari Rasoi,4.4
+Plain Paratha,30.0,Marwari Rasoi,4.6
+Laccha Paratha,55.0,Marwari Rasoi,4.6
+Missi Roti,50.0,Marwari Rasoi,3.2
+Butter Roti,20.0,Marwari Rasoi,3.3
+Rajasthani Chole,179.0,Marwari Rasoi,4.7
+Butter Paneer Masala,289.0,Marwari Rasoi,4.2
+Kadai Paneer,289.0,Marwari Rasoi,4.8
+Mushroom Kadai,299.0,Marwari Rasoi,3.8
+Mushroom Masala,299.0,Marwari Rasoi,4.1
+Rajasthani Kadi,119.0,Marwari Rasoi,3.6
+Mushroom Do Pyaza,299.0,Marwari Rasoi,3.2
+Aloo Onion Dry,140.0,Marwari Rasoi,4.4
+Masala Khichdi,179.0,Marwari Rasoi,4.0
+Jeera Rice,189.0,Marwari Rasoi,4.8
+Veg Rice,189.0,Marwari Rasoi,3.0
+Mirch Masala Rice,189.0,Marwari Rasoi,3.6
+Schezwan Rice,189.0,Marwari Rasoi,4.8
+Chinese Rice,189.0,Marwari Rasoi,3.5
+Chilli Mushroom,259.0,Marwari Rasoi,4.5
+Chilli Gobi,259.0,Marwari Rasoi,4.0
+Lassi,80.0,Marwari Rasoi,4.3
+Buttermilk,70.0,Marwari Rasoi,3.3
+Rice & Dal,119.0,Marwari Rasoi,4.0
+Lachha Paneer Tikka Roll,115.0,Rollicious,3.8
+Lachha Chilli Paneer Roll,129.0,Rollicious,4.5
+Lachha Bahubali Veg Roll,209.0,Rollicious,3.1
+Lachha Mushroom Roll,105.0,Rollicious,5.0
+Lachha Mix Veg Roll,85.0,Rollicious,3.5
+Lachha Paneer Mushroom Roll,129.0,Rollicious,4.2
+Lachha Paratha,35.0,Rollicious,4.6
+Mayonnaise,15.0,Rollicious,4.3
+Lachha Cheese Paneer Tikka Roll,129.0,Rollicious,3.7
+Lachha Cheese Mushroom Roll,115.0,Rollicious,3.5
+Shahi Tukda,99.0,Behrouz Biryani,3.8
+Shahi Tukda (pack of 2),179.0,Behrouz Biryani,4.3
+Beetroot & Peanut Kebab,139.0,Behrouz Biryani,3.6
+Falafel-E-Khaas,119.0,Behrouz Biryani,4.6
+Dahi Labneh Kebab,149.0,Behrouz Biryani,4.7
+Hara Bhara Kebab,159.0,Behrouz Biryani,4.5
+Aloo Chaap Tikki,139.0,Behrouz Biryani,5.0
+Dahi Labneh Kebab (6 pcs) & Beetroot and Peanut Kebab (6 pcs) Combo,469.0,Behrouz Biryani,3.3
+Beetroot & Peanut Kebab (6 pcs) & Hara Bhara Kebab (6 Pcs) Combo,489.0,Behrouz Biryani,5.0
+Zaikedaar Paneer Biryani (Paneer Dum Biryani - Serves 1),399.0,Behrouz Biryani,4.5
+Subz-e-Biryani (Dum Veg Biryani - Serves 1),379.0,Behrouz Biryani,3.3
+Paneer Subz Biryani (Paneer Dum and Veg Biryani - Serves 1),389.0,Behrouz Biryani,3.4
+Taj-e-Khumb Biryani (Mushroom Biryani - Serves 1),399.0,Behrouz Biryani,4.2
+Paneer 65,289.0,Aloha Biryani,4.6
+Paneer Manchurian,289.0,Aloha Biryani,4.7
+Chilli Paneer,289.0,Aloha Biryani,3.9
+Schezwan Paneer,289.0,Aloha Biryani,4.9
+Mushroom Salt & Pepper,239.0,Aloha Biryani,3.2
+Mushroom 65,289.0,Aloha Biryani,4.8
+Mix Veg Curry,259.0,Aloha Biryani,3.6
+Paneer Butter Masala,299.0,Aloha Biryani,4.0
+Paneer Hyderabadi,289.0,Aloha Biryani,4.1
+Mushroom Masala,289.0,Aloha Biryani,4.7
+Mushroom Butter Masala,299.0,Aloha Biryani,3.7
+Kadai Paneer,289.0,Aloha Biryani,4.8
+Kadai Mushroom,289.0,Aloha Biryani,4.4
+Mushroom Biryani Mini,157.0,Aloha Biryani,4.6
+Paneer Biryani Mini,157.0,Aloha Biryani,4.8
+Aloha Special Veg Biryani Mini,158.0,Aloha Biryani,4.8
+Paneer Biryani,299.0,Aloha Biryani,4.5
+Mushroom Biryani,299.0,Aloha Biryani,3.4
+Aloha Special Veg Biryani,299.0,Aloha Biryani,3.5
+Crispy Corn Salt & Pepper,249.0,Aloha Biryani,4.1
+Mushroom Chilli,289.0,Aloha Biryani,4.2
+Paneer Butter Masala,239.0,99 North Restaurant,4.3
+Kadai Paneer,239.0,99 North Restaurant,3.7
+Paneer Tikka Masala,279.0,99 North Restaurant,3.9
+Mushroom Masala,239.0,99 North Restaurant,4.5
+Paneer Handi,239.0,99 North Restaurant,4.1
+Mushroom Do Pyaza,239.0,99 North Restaurant,4.1
+Vegetable Subnum,199.0,99 North Restaurant,4.6
+Gobi Masala,189.0,99 North Restaurant,3.5
+Vegetable Hyderabadi,199.0,99 North Restaurant,4.8
+Veg Manchow Soup,129.0,99 North Restaurant,3.9
+99 Spl Soup Veg,179.0,99 North Restaurant,4.8
+Veg Hot & Sour Soup,129.0,99 North Restaurant,4.6
+Veg Sweet Corn Soup,129.0,99 North Restaurant,3.4
+Veg Lung Fung Soup,129.0,99 North Restaurant,4.0
+Butter Naan,69.0,99 North Restaurant,3.0
+Naan,49.0,99 North Restaurant,4.4
+Roti,39.0,99 North Restaurant,3.2
+Veg Fried Rice,219.0,99 North Restaurant,4.6
+Vegetable Pulao,219.0,99 North Restaurant,3.8
+Spicy Veg Fried Rice,219.0,99 North Restaurant,3.3
+Veg Hakka Noodles,219.0,99 North Restaurant,4.8
+Veg Chilli Garlic Noodles,219.0,99 North Restaurant,4.0
+Veg Schezwan Noodle,249.0,99 North Restaurant,3.5
+Chilli Mushroom,249.0,99 North Restaurant,3.5
+Chilli Paneer,249.0,99 North Restaurant,4.2
+Paneer Manchurian,249.0,99 North Restaurant,3.6
+Subzi Biryani,249.0,99 North Restaurant,4.3
+Plain Rice,139.0,99 North Restaurant,3.5
+Crispy Chilli Baby Corn,219.0,99 North Restaurant,4.1
+American Corn Salt & Pepper,199.0,99 North Restaurant,4.5
+Pepper Chilli Potato,159.0,99 North Restaurant,4.0
+Dal Fry,139.0,99 North Restaurant,3.6
+Dal Tadka,149.0,99 North Restaurant,3.9
+Paneer Tikka,249.0,99 North Restaurant,3.4
+Green Salad,69.0,99 North Restaurant,4.6
+Mix Raitha,79.0,99 North Restaurant,3.1
+Aloo Paratha,70.0,Jugaad Jn,3.1
+Punjabi Aloo Paratha,75.0,Jugaad Jn,4.3
+Paneer Paratha,89.0,Jugaad Jn,4.8
+Roti Pack Of 4pcs,64.0,Jugaad Jn,3.4
+Roti,17.0,Jugaad Jn,4.8
+Kuchbhi / Harabhara Mix Veg Paratha,80.0,Jugaad Jn,3.9
+Masala Paratha,39.0,Jugaad Jn,4.4
+Cheese Paratha,99.0,Jugaad Jn,3.7
+Gobi Paratha,89.0,Jugaad Jn,4.4
+Matar Paratha,75.0,Jugaad Jn,4.1
+Plain Paratha,30.0,Jugaad Jn,4.5
+Chole Bhatore,160.0,Jugaad Jn,4.3
+Rajma Chawal,160.0,Jugaad Jn,4.4
+Special Thali,249.0,Jugaad Jn,4.5
+Vegetable Masala Khichdi (Desi Ghee),159.0,Jugaad Jn,4.5
+Club Kachori,130.0,Jugaad Jn,3.8
+Papdi Chat,99.0,Jugaad Jn,4.4
+Malai Lassi,89.0,Jugaad Jn,4.4
+Kesar Badam Shake,135.0,Jugaad Jn,4.0
+Namkeen Chach,75.0,Jugaad Jn,3.8
+Chocolate Shake,135.0,Jugaad Jn,3.1
+Nimbu Pani,59.0,Jugaad Jn,3.9
+Jugaad Khus Drink,59.0,Jugaad Jn,4.7
+Chana Masala,159.0,Jugaad Jn,4.1
+Paneer Chatpata,199.0,Jugaad Jn,4.3
+Dal Fry,115.0,Jugaad Jn,3.5
+Corn Rice,95.0,Jugaad Jn,4.8
+Cheese Maggi,95.0,Jugaad Jn,3.5
+Corn Butter Maggi,89.0,Jugaad Jn,4.5
+Jugaad Jalebi (Sahi Tukda),65.0,Jugaad Jn,4.2
+Mix Veg,199.0,Jugaad Jn,3.4
+Kadhai Paneer,219.0,Jugaad Jn,4.5
+Matar Paneer,199.0,Jugaad Jn,4.3
+Paneer Butter Masala,199.0,Jugaad Jn,3.0
+Aloo Matar,135.0,Jugaad Jn,4.2
+Classic Strawberry Milkshake,219.0,Keventers - Milkshakes & Desserts,3.1
+Choco Chip Milkshake,259.0,Keventers - Milkshakes & Desserts,3.6
+Chocolate Oreo Milkshake,269.0,Keventers - Milkshakes & Desserts,4.7
+Chocolate Hazelnut Milkshake,259.0,Keventers - Milkshakes & Desserts,3.7
+Nutella Milkshake,269.0,Keventers - Milkshakes & Desserts,4.0
+Strawberry Signature Ice Cream Shake,269.0,Keventers - Milkshakes & Desserts,3.3
+Classic Cold Coffee,219.0,Keventers - Milkshakes & Desserts,4.6
+Alphonso Mango Ice Cream [450 ml],287.29,Keventers - Milkshakes & Desserts,4.2
+Mocha Cold Coffee,239.0,Keventers - Milkshakes & Desserts,4.7
+Java Choco Chip Cold Coffee,249.0,Keventers - Milkshakes & Desserts,4.7
+Hazelnut Cold Coffee,239.0,Keventers - Milkshakes & Desserts,3.9
+Caramel Cold Coffee,239.0,Keventers - Milkshakes & Desserts,4.8
+Cold Dark Frappe,319.0,CCD,4.8
+Gourmet Belgian Cold Chocolate,319.0,CCD,3.0
+Cafe Mocha,249.0,CCD,3.6
+Cappuccino,99.0,CCD,3.1
+King Cappuccino,149.0,CCD,3.9
+Hazelnut Cappuccino,269.0,CCD,4.5
+Vanilla Cappuccino,99.0,CCD,4.2
+Vanilla Latte,279.0,CCD,4.3
+Cafe Latte,99.0,CCD,3.3
+Filter Coffee,229.0,CCD,3.7
+King Latte,269.0,CCD,4.1
+Cafe Latte N Cookie,245.0,CCD,3.4
+Cafe Americano,99.0,CCD,4.6
+Cold Devils Own,199.0,CCD,3.4
+Cafe Frappe,284.0,CCD,3.2
+Crunchy Frappe,319.0,CCD,3.8
+Dutch Truffle Cake (730 g),714.0,CCD,3.7
+Butterscotch Crunch Cake (695 g),714.0,CCD,3.2
+Red Velvet Cake (740 g),714.0,CCD,4.0
+Chocolate Muffin,194.0,CCD,4.4
+Chocolate Milkshake,199.0,Slurpy Shakes,3.9
+Oreo Kitkat Shake,323.0,Slurpy Shakes,3.9
+Butterscotch Milkshake,199.0,Slurpy Shakes,3.9
+Rose Milkshake,199.0,Slurpy Shakes,4.8
+Oreo Brownie Thickshake,219.0,Slurpy Shakes,3.3
+Red Velvet Thickshake,229.0,Slurpy Shakes,3.4
+Chocolate Truffle Thickshake,229.0,Slurpy Shakes,3.4
+Death By Chocolate Thickshake,229.0,Slurpy Shakes,3.4
+Brownie Thickshake,219.0,Slurpy Shakes,3.8
+Kitkat Thickshake,219.0,Slurpy Shakes,4.0
+Peri Peri French Fries,129.0,Slurpy Shakes,5.0
+Oreo Strawberry Thickshake,219.0,Slurpy Shakes,3.6
+Corn & Cheese Fried Momo,169.0,Slurpy Shakes,4.2
+Pizza Momo Fried,179.0,Slurpy Shakes,3.3
+French Fries,119.0,Slurpy Shakes,4.0
+Paneer Fried Momo,169.0,Slurpy Shakes,5.0
+Shake Family,609.0,Slurpy Shakes,4.5
+Caffe Latte,262.0,Starbucks,4.8
+Cappuccino,262.0,Starbucks,4.7
+Caffe Mocha,314.0,Starbucks,4.5
+Caramel Macchiato,366.0,Starbucks,4.9
+White Chocolate Mocha,366.0,Starbucks,4.8
+Java Chip Frappuccino,366.0,Starbucks,4.8
+Espresso,266.0,Starbucks,4.6
+Cold Coffee,288.0,Starbucks,3.1
+Iced Americano,236.0,Starbucks,4.0
+Iced Caramel Macchiato,366.0,Starbucks,3.6
+Chocolate Croissant,210.0,Starbucks,4.3
+Blueberry Muffin,88.0,Starbucks,4.8
+Butter Croissant,283.0,Starbucks,4.5
+Paneer Tikka Sandwich,480.0,Starbucks,4.1
+Chicken Tikka Panini,472.0,Starbucks,3.0
+Cheese Croissant,236.0,Starbucks,3.7

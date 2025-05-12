@@ -1,0 +1,498 @@
+Food Item,Price (INR),Restaurant,Rating
+Jugaad Cutlet/Vada Pav,125.0,Jugaad Jn.,4.6
+Kabab Dal Ke (No O/G),99.0,Jugaad Jn.,4.8
+Paan ! Mitha Banarsi Paan,39.0,Jugaad Jn.,3.9
+Chole Bhatore,160.0,Jugaad Jn.,4.0
+Matar Kachori,175.0,Jugaad Jn.,4.1
+Pav Bhaji,155.0,Jugaad Jn.,3.5
+Hing Sattu Kachori,175.0,Jugaad Jn.,4.1
+Cheese Pav Bhaji,168.0,Jugaad Jn.,4.1
+Puri Bhaji,145.0,Jugaad Jn.,4.5
+Moong Dal Chilla.,89.0,Jugaad Jn.,4.9
+Namkeen Chach,75.0,Jugaad Jn.,4.9
+Rose Lassi / Pink Lassi,90.0,Jugaad Jn.,4.9
+Jugaad Drink,59.0,Jugaad Jn.,4.9
+Nimbu Pani,65.0,Jugaad Jn.,4.3
+Aam Panna,85.0,Jugaad Jn.,3.3
+Malai Lassi (Kesaria),89.0,Jugaad Jn.,3.1
+Chocolate Shake,145.0,Jugaad Jn.,3.2
+Kesar Badam Shake,139.0,Jugaad Jn.,4.7
+Oreo Shake,149.0,Jugaad Jn.,3.2
+Vanilla Shake,119.0,Jugaad Jn.,4.0
+Rice Meal Thali,190.0,Jugaad Jn.,4.5
+Chole Chawal,160.0,Jugaad Jn.,4.6
+Chawal Dal Sabji Combo,159.0,Jugaad Jn.,3.6
+Kadhi Chawal Combo,159.0,Jugaad Jn.,3.1
+Dal Makhni Chawal,160.0,Jugaad Jn.,4.1
+Rajma Chawal,165.0,Jugaad Jn.,4.7
+Regular Thali,199.0,Jugaad Jn.,4.6
+Special Thali,265.0,Jugaad Jn.,3.5
+Premium Thali,295.0,Jugaad Jn.,3.9
+Aloo Dum (Dhaba Style),189.0,Jugaad Jn.,4.3
+Aloo Paneer Dry,185.0,Jugaad Jn.,4.2
+Kadhai Paneer,229.0,Jugaad Jn.,3.3
+Kofta Veg. Kofta (Jn Special),219.0,Jugaad Jn.,4.0
+Mix Veg HaraBhara Jugaad,199.0,Jugaad Jn.,4.5
+Paneer Lababdar,229.0,Jugaad Jn.,4.1
+Paneer Makhni (No Onion/garlic),229.0,Jugaad Jn.,3.1
+Buy 1 Get 3 - Thin n Crispy Veg,479.0,Pizza Hut,3.6
+Buy 1 Get 3 - Medium Veg,329.0,Pizza Hut,4.3
+Buy 1 Get 3 - Medium Non Veg,489.0,Pizza Hut,4.1
+Buy 1 Get 3 - Thin n Crispy Non Veg,649.0,Pizza Hut,4.7
+Country Feast,319.0,Pizza Hut,4.5
+Schezwan Margherita,219.0,Pizza Hut,3.7
+Mazedar Makhni Paneer,379.0,Pizza Hut,3.4
+Corn & Cheese,219.0,Pizza Hut,3.6
+Spiced Paneer,259.0,Pizza Hut,5.0
+Veggie Feast,259.0,Pizza Hut,4.8
+Ultimate Tandoori Veggie,379.0,Pizza Hut,4.8
+Mexican Fiesta,319.0,Pizza Hut,3.1
+Awesome American Cheesy,379.0,Pizza Hut,3.4
+Bold BBQ Veggies,319.0,Pizza Hut,4.0
+Veggie Supreme,379.0,Pizza Hut,3.6
+Tandoori Paneer,319.0,Pizza Hut,3.1
+Margherita,169.0,Pizza Hut,4.9
+Chicken Sausage,259.0,Pizza Hut,4.7
+Chicken Tikka Supreme,409.0,Pizza Hut,4.1
+Sausage & Sweet Corn,289.0,Pizza Hut,4.2
+Nawabi Murg Makhni,409.0,Pizza Hut,4.9
+Awesome American Cheesy Chicken,379.0,Pizza Hut,4.8
+Murg Malai Chicken,379.0,Pizza Hut,4.4
+Chicken Pepperoni,379.0,Pizza Hut,4.2
+Dhabe Da Keema,319.0,Pizza Hut,4.9
+Triple Chicken Feast,409.0,Pizza Hut,4.4
+Chicken Supreme,409.0,Pizza Hut,3.6
+Chicken Tikka,379.0,Pizza Hut,4.8
+Sizzling Schezwan Chicken,319.0,Pizza Hut,4.4
+Cheesy Spicy Delight,159.0,Pizza Hut,3.2
+Classic Corn,109.0,Pizza Hut,4.3
+"Spicy Sweet Corn, Onion, Green Chilli",139.0,Pizza Hut,3.5
+Chatpata Tomato Onion & Chilli,149.0,Pizza Hut,3.2
+Classic Onion Capsicum,99.0,Pizza Hut,4.2
+Chilli Paneer Sizzle,179.0,Pizza Hut,4.2
+Create Your Flavour Fun Combo - Box Of 4 - Non Veg,545.0,Pizza Hut,4.3
+Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza,289.0,Pizza Hut,4.0
+Chicken Biryani with Chicken Lollipop,319.0,Chandini Food Magic,4.4
+Egg Chicken Fried Rice with Boneless Chilli Chicken,299.0,Chandini Food Magic,3.5
+2 Lachha Paratha with Paneer Butter Masala,310.0,Chandini Food Magic,4.6
+2 Lachha Paratha with Chilli Mushroom,280.0,Chandini Food Magic,3.7
+Home Style Chicken Curry with Jeera Rice,339.0,Chandini Food Magic,3.2
+Home Style Chicken Curry with Plain Rice,269.0,Chandini Food Magic,3.3
+Tangdi Chicken,320.0,Chandini Food Magic,3.3
+Chicken Hariyali Kebab,270.0,Chandini Food Magic,4.7
+Chicken Malai Kebab,220.0,Chandini Food Magic,5.0
+Chicken Boti Kebab,240.0,Chandini Food Magic,4.8
+Chicken Mirchi Kebab,220.0,Chandini Food Magic,3.0
+Fried Chicken Wings,150.0,Chandini Food Magic,4.8
+Tandoori Chicken,400.0,Chandini Food Magic,4.9
+Kathi Kebab,240.0,Chandini Food Magic,3.7
+Paneer Butter Masala,180.0,Chandini Food Magic,4.4
+Mushroom Butter Masala,180.0,Chandini Food Magic,3.7
+Paneer Hyderabadi,150.0,Chandini Food Magic,4.2
+Paneer Kadai,180.0,Chandini Food Magic,4.2
+Mushroom Kadai,180.0,Chandini Food Magic,3.2
+Paneer Do Pyaza,180.0,Chandini Food Magic,4.5
+Paneer Punjabi,180.0,Chandini Food Magic,3.9
+Mushroom Punjabi,180.0,Chandini Food Magic,3.5
+Mushroom Do Pyaza,220.0,Chandini Food Magic,4.7
+Gobi Masala,150.0,Chandini Food Magic,4.6
+Paneer Masala,180.0,Chandini Food Magic,3.9
+Mix Veg,130.0,Chandini Food Magic,3.8
+Mushroom Masala,180.0,Chandini Food Magic,4.1
+Chicken Kassa,180.0,Chandini Food Magic,3.5
+Boneless Chicken Kassa,180.0,Chandini Food Magic,3.1
+Chicken Butter Masala,180.0,Chandini Food Magic,4.2
+Boneless Chicken Butter Masala,180.0,Chandini Food Magic,3.6
+Chicken Mughlai,180.0,Chandini Food Magic,4.6
+Boneless Chicken Mughlai,180.0,Chandini Food Magic,4.1
+Chicken Hyderabadi,200.0,Chandini Food Magic,4.1
+Chicken Keema Masala,180.0,Chandini Food Magic,3.5
+Chicken Tikka Masala,180.0,Chandini Food Magic,3.4
+Chicken Kadai,180.0,Chandini Food Magic,3.3
+Boneless Chicken Kadai,130.0,Chandini Food Magic,3.8
+Chicken Do Pyaza,180.0,Chandini Food Magic,3.2
+Boneless Chicken Do Pyaza,180.0,Chandini Food Magic,3.4
+Chicken Punjabi,180.0,Chandini Food Magic,3.7
+Boneless Chicken Punjabi,130.0,Chandini Food Magic,4.3
+Mutton Curry,250.0,Chandini Food Magic,4.4
+Mutton Kassa,250.0,Chandini Food Magic,3.3
+Chicken Bharta,260.0,Chandini Food Magic,4.9
+Chicken Tayi Di Masala,180.0,Chandini Food Magic,4.3
+Chicken Tangdi Masala,170.0,Chandini Food Magic,3.9
+Mutton Masala,280.0,Chandini Food Magic,4.1
+Prawn Masala,270.0,Chandini Food Magic,3.6
+Lachha Paratha,60.0,Chandini Food Magic,3.1
+Plain Paratha,40.0,Chandini Food Magic,4.5
+Plain Rice,80.0,Chandini Food Magic,4.5
+Jeera Rice,120.0,Chandini Food Magic,3.5
+Veg Biryani,170.0,Chandini Food Magic,3.9
+Paneer Biryani,200.0,Chandini Food Magic,3.7
+Chicken Biryani,220.0,Chandini Food Magic,3.7
+Chicken Tangdi Biryani,280.0,Chandini Food Magic,3.7
+Chicken Tandoor Leg Biryani,220.0,Chandini Food Magic,3.4
+Chicken Tikka Biryani,240.0,Chandini Food Magic,5.0
+Mutton Biryani,300.0,Chandini Food Magic,5.0
+Prawns Biryani,240.0,Chandini Food Magic,3.6
+Chicken Tandoori Biryani,250.0,Chandini Food Magic,3.0
+Chilli Mushroom,170.0,Chandini Food Magic,4.5
+Veg Manchurian,140.0,Chandini Food Magic,4.5
+Paneer Manchurian,200.0,Chandini Food Magic,4.4
+Paneer 65,180.0,Chandini Food Magic,3.6
+Mushroom 65,170.0,Chandini Food Magic,4.9
+Mushroom Manchurian,200.0,Chandini Food Magic,4.2
+Chilli Chicken,180.0,Chandini Food Magic,3.7
+Boneless Chilli Chicken,180.0,Chandini Food Magic,4.0
+Boneless Garlic Chicken,200.0,Chandini Food Magic,4.9
+Boneless Ginger Chicken,200.0,Chandini Food Magic,4.8
+Jain Aloo Gobi Matar Bhaji,169.0,Garam masala,3.3
+Jain Paneer Bhurji,259.0,Garam masala,4.5
+Jain Malai Kofta,269.0,Garam masala,4.0
+Jain Navratan Korma,269.0,Garam masala,4.7
+Jain Paneer Butter Masala,249.0,Garam masala,4.3
+Cream Tomato Soup,129.0,Garam masala,5.0
+Veg Sweet Corn Soup,129.0,Garam masala,3.1
+Non Veg Lemon Pepper Coriander Soup,139.0,Garam masala,3.2
+Veg Hot and Sour Soup,129.0,Garam masala,4.7
+Paneer Tikka Salad,229.0,Garam masala,4.3
+Chicken Tikka Salad,259.0,Garam masala,4.4
+Chicken Tikka,359.0,Garam masala,3.3
+Tandoori Chicken,359.0,Garam masala,3.4
+Paneer Tikka,259.0,Garam masala,4.7
+Chilli Chicken,229.0,Garam masala,4.3
+Paneer Hyderabadi,259.0,Garam masala,4.9
+Chana Masala,229.0,Garam masala,4.9
+Paneer Tikka Butter Masala,299.0,Garam masala,3.2
+Veg Manchurian Dry,189.0,Garam masala,3.6
+Chicken Mughlai with 2 Paratha,289.0,Rajdhani Fast Food,4.9
+Chicken Kassa with 4 Roti,196.0,Rajdhani Fast Food,3.2
+Chicken Fried Rice with Chicken Chilli,350.0,Rajdhani Fast Food,3.9
+Chicken Fried Rice with Chicken Manchurian,299.0,Rajdhani Fast Food,4.8
+Veg Biryani with Paneer Butter Masala,289.0,Rajdhani Fast Food,4.8
+Veg Fried Rice with Paneer Chilli,299.0,Rajdhani Fast Food,3.4
+Veg Biryani with Paneer Biryani,299.0,Rajdhani Fast Food,3.4
+2 Veg Biryani,198.0,Rajdhani Fast Food,3.0
+Veg Tadka with 4 Roti,120.0,Rajdhani Fast Food,4.5
+Paneer Masala with 2 Paratha,130.0,Rajdhani Fast Food,4.7
+2 Mushroom Masala Paratha,130.0,Rajdhani Fast Food,3.4
+Paneer Butter Masala with Rice,192.0,Rajdhani Fast Food,3.9
+Veg Biryani with Veg Manchurian,299.0,Rajdhani Fast Food,4.8
+Paneer Tikka Biryani Combo,315.0,Rajdhani Fast Food,3.0
+Veg Dahi Pakhala,119.0,Rajdhani Fast Food,4.0
+Chicken Chilli with 2 Paratha,119.0,Rajdhani Fast Food,3.9
+Butter Chicken with 2 Paratha,119.0,Rajdhani Fast Food,3.6
+Chicken Kassa with 4 Roti,196.0,Rajdhani Fast Food,4.2
+Chicken Masala with Egg Paratha,156.0,Rajdhani Fast Food,3.3
+Chicken Biryani with Chicken Lollipop,350.0,Rajdhani Fast Food,4.7
+Dahi Pakhala and Chicken Kassa,179.0,Rajdhani Fast Food,4.5
+Non Veg Dahi Pakhala,90.0,Rajdhani Fast Food,3.9
+Veg Matka Biryani,199.0,Rajdhani Fast Food,3.5
+Paneer Tika Matka Biryani,269.0,Rajdhani Fast Food,3.3
+Chicken Matka Biryani,279.0,Rajdhani Fast Food,4.5
+Chicken Keema Matka Biryani,269.0,Rajdhani Fast Food,3.8
+Lollipop Matka Biryani [2 Pieces],298.0,Rajdhani Fast Food,4.6
+Bread Omelette,95.0,Rajdhani Fast Food,5.0
+Egg Chicken Fried Rice,269.0,Rajdhani Fast Food,3.9
+Chicken Roll,80.0,Rajdhani Fast Food,4.1
+Double Egg Chicken Roll,99.0,Rajdhani Fast Food,3.4
+Paneer Roll,80.0,Rajdhani Fast Food,4.3
+Paneer Pakoda,159.0,Rajdhani Fast Food,3.5
+Veg Fried Rice,155.0,Rajdhani Fast Food,3.7
+Veg Thali,85.0,Rajdhani Fast Food,3.4
+Paneer Thali,119.0,Rajdhani Fast Food,3.8
+Egg Thali,99.0,Rajdhani Fast Food,4.4
+Fish Thali,99.0,Rajdhani Fast Food,3.6
+Chicken Thali,195.0,Rajdhani Fast Food,3.2
+Mutton Thali,279.0,Rajdhani Fast Food,4.0
+Veg Sweet Corn Soup,70.0,Rajdhani Fast Food,4.2
+Tomato Soup,70.0,Rajdhani Fast Food,3.2
+Chicken Sweet Corn Soup,75.0,Rajdhani Fast Food,3.0
+Chicken Hot and Sour Soup,75.0,Rajdhani Fast Food,4.8
+Boneless Chicken Noodles Soup,75.0,Rajdhani Fast Food,4.3
+Gobhi Chilly,119.0,Rajdhani Fast Food,3.3
+Paneer Tikka,198.0,Rajdhani Fast Food,3.8
+Chilly Paneer,156.0,Rajdhani Fast Food,4.7
+Paneer Manchurian,156.0,Rajdhani Fast Food,3.7
+Chilly Mushroom,132.0,Rajdhani Fast Food,3.3
+Chilly Egg,99.0,Rajdhani Fast Food,3.7
+Chilly Chicken,150.0,Rajdhani Fast Food,4.9
+Chicken Lollipop,198.0,Rajdhani Fast Food,3.1
+Chilly Prawns,264.0,Rajdhani Fast Food,3.2
+Chicken Hyderabadi Dum Biryani [1/2 kg],389.0,Biryani By Kilo,3.8
+Chicken Lucknowi Dum Biryani [1/2 kg],389.0,Biryani By Kilo,4.8
+Kolkata Chicken Biryani [Serve 1],399.0,Biryani By Kilo,3.7
+Chicken 65 Biryani [1/2Kg] Serves 1-2,419.0,Biryani By Kilo,4.6
+Kolkata Mutton Biryani [Serve 1],449.0,Biryani By Kilo,3.9
+Mutton Lucknowi Dum Biryani [1/2 kg],449.0,Biryani By Kilo,4.4
+Mutton Hyderabadi Dum Biryani [Serve 1],449.0,Biryani By Kilo,3.6
+Chicken Boneless Dum Biryani [1/2 Kg] Serves 1-2,539.0,Biryani By Kilo,3.2
+2x Chicken Hyderabadi Dum Biryani [1/2 Kg] +1x Phirni [100gm],1300.0,Biryani By Kilo,4.0
+Veg Hyderabadi Dum Biryani [1/2 Kg] Serves 1-2,349.0,Biryani By Kilo,4.0
+Paneer Dum Biryani [1/2 Kg] Serves 1-2,369.0,Biryani By Kilo,4.2
+Kathal Dum Biryani [1/2 Kg] Serves 1-2,409.0,Biryani By Kilo,4.6
+2 Veg Hyderabadi Dum Biryani [1/2 Kg] +1x Phirni [100gm],1269.0,Biryani By Kilo,3.8
+Chicken Hyderabadi Dum Biryani -[1 Kg] Serves 2-3,629.0,Biryani By Kilo,3.0
+Chicken Lucknowi Biryani -[1 Kg] Serves 2-3,629.0,Biryani By Kilo,3.2
+Kolkata Chicken Biryani - [1Kg],779.0,Biryani By Kilo,3.5
+Chicken 65 Biryani [1Kg],779.0,Biryani By Kilo,4.2
+[1Kg] Mutton Hyderabadi Dum Biryani,829.0,Biryani By Kilo,3.5
+[1Kg] Mutton Lucknowi Biryani,829.0,Biryani By Kilo,4.1
+Veg Hyderabadi Dum Biryani - [1 Kg] Serves 2-3,619.0,Biryani By Kilo,3.6
+[1Kg] Paneer Hyderabadi Dum Biryani,729.0,Biryani By Kilo,4.4
+[1Kg] Kathal Hyderabadi Dum Biryani,749.0,Biryani By Kilo,3.5
+Chicken Biryani Combo,848.0,Biryani By Kilo,4.1
+Mutton Biryani Combo,888.0,Biryani By Kilo,3.2
+Veg Biryani Combo,688.0,Biryani By Kilo,3.8
+Paneer Biryani Combo,708.0,Biryani By Kilo,3.5
+Egg Dum Biryani [1/2 Kg],349.0,Biryani By Kilo,4.5
+Malamaal Chicken Dum Biryani [1/2 Kg] Serves 1-2,689.0,Biryani By Kilo,4.6
+Soya Chaap Dum Biryani [1/2 Kg],369.0,Biryani By Kilo,3.7
+Peshawari Chole Biryani [1/2 Kg] Serves 1-2,399.0,Biryani By Kilo,3.2
+Goila Butter Chicken Biryani [1/2kg],469.0,Biryani By Kilo,5.0
+Goila Butter Paneer Biryani [1/2kg],449.0,Biryani By Kilo,3.2
+Tandoori Chicken Full [8 Pcs],699.0,Biryani By Kilo,3.1
+Chicken Ghee Roast [250 Gms],429.0,Biryani By Kilo,3.1
+Mutton Galouti Kebab [6 pcs],549.0,Biryani By Kilo,3.7
+Mutton Seekh Kebab [250 gms],545.0,Biryani By Kilo,4.0
+Chicken 65 [250 gms],419.0,Biryani By Kilo,3.3
+Chicken Seekh Kebab [250 gms],389.0,Biryani By Kilo,3.1
+Paneer 65 [250 gms],409.0,Biryani By Kilo,3.0
+Veg Galouti Kebab [6 pcs],299.0,Biryani By Kilo,4.1
+Crispy Corn stick [6 pcs],299.0,Biryani By Kilo,4.9
+Veg Platter,649.0,Biryani By Kilo,3.2
+Chicken Korma [Half],299.0,Biryani By Kilo,4.1
+Dum Ka Keema Gosht,429.0,Biryani By Kilo,3.1
+Chicken Korma [Full],499.0,Biryani By Kilo,4.5
+Paneer Nawabi [Full],499.0,Biryani By Kilo,3.9
+Dal Makhani [Half],289.0,Biryani By Kilo,4.8
+Plain Rice,160.0,Biryani By Kilo,3.3
+Jeera Rice,170.0,Biryani By Kilo,4.0
+Chicken Seekh Roll,199.0,Biryani By Kilo,3.3
+Chicken Tikka Roll,199.0,Biryani By Kilo,3.7
+Paneer Tikka Roll,189.0,Biryani By Kilo,3.7
+Ulte Tawa Ka Parantha,69.0,Biryani By Kilo,3.9
+Rumali Roti,60.0,Biryani By Kilo,3.5
+Arabian Special Shawarma Plate,369.0,Zam Zam Grills,3.1
+Arabian Special Shawarma Roll,189.0,Zam Zam Grills,3.8
+Arabian Spl Shawarma Salad,319.0,Zam Zam Grills,4.4
+Executive Shawarma Plate,329.0,Zam Zam Grills,4.8
+Executive Shawarma Roll,159.0,Zam Zam Grills,3.2
+Executive Shawarma Salad,299.0,Zam Zam Grills,3.3
+Extra Mayonnaise,79.0,Zam Zam Grills,4.2
+Grilled Chicken,159.0,Zam Zam Grills,3.1
+Mint Shawarma Roll,185.0,Zam Zam Grills,4.6
+Mint Shawarma Salad,279.0,Zam Zam Grills,3.0
+Rumali Roti,45.0,Zam Zam Grills,4.1
+Shawarma Plate,339.0,Zam Zam Grills,3.9
+Shawarma Plate [ Only Chicken ],389.0,Zam Zam Grills,3.9
+Shawarma Roll,181.0,Zam Zam Grills,4.2
+Shawarma Roll [only Chicken ],259.0,Zam Zam Grills,3.8
+Shawarma Salad,279.0,Zam Zam Grills,4.2
+Shawarma Salad ( Only Chicken ),289.0,Zam Zam Grills,4.7
+Spicy Shawarma Plates,359.0,Zam Zam Grills,3.2
+Spicy Shawarma Roll,185.0,Zam Zam Grills,4.3
+Spicy Shawarma Salad,279.0,Zam Zam Grills,4.7
+Photo Pull-Up Cake [500 gms],1449.0,Bakingo - Cakes & Desserts,3.5
+Pull Me Up Pineapple Cake [500 gms],949.0,Bakingo - Cakes & Desserts,3.9
+Hazelnut Chocolate Cream Cake [500 gms],549.0,Bakingo - Cakes & Desserts,3.9
+Round Chocolate Truffle Cake [500 gms],499.0,Bakingo - Cakes & Desserts,3.5
+Truffle Pinata Cake [700 gms],1099.0,Bakingo - Cakes & Desserts,3.9
+Heart Shaped Chocolate Cake [500 gms],649.0,Bakingo - Cakes & Desserts,3.3
+Designer Chocolate Pinata Cake [1 kg],1499.0,Bakingo - Cakes & Desserts,4.4
+Black Forest Cake [500 gms],499.0,Bakingo - Cakes & Desserts,4.3
+Chocolate Cream Cup Cake,199.0,Bakingo - Cakes & Desserts,3.6
+Butterscotch Crunch Cup Cake,199.0,Bakingo - Cakes & Desserts,3.3
+Vanilla Cup Cake,199.0,Bakingo - Cakes & Desserts,4.4
+Red Velvet Jar Cake,199.0,Bakingo - Cakes & Desserts,4.7
+Chocolate Walnut Brownie,99.0,Bakingo - Cakes & Desserts,3.4
+Choco Truffle Pastry,99.0,Bakingo - Cakes & Desserts,3.9
+Pineapple Pastry,89.0,Bakingo - Cakes & Desserts,4.8
+Chocolate Fudge,149.0,Bakingo - Cakes & Desserts,3.8
+Caramel Chocolate Cup,149.0,Bakingo - Cakes & Desserts,4.2
+Choco Bar,79.0,Bakingo - Cakes & Desserts,4.9
+Butterscotch Delight Jar Cake,199.0,Bakingo - Cakes & Desserts,3.5
+Black Forest Jar Cake,199.0,Bakingo - Cakes & Desserts,3.5
+Bakingo Special Red Velvet Cake [500 gms],499.0,Bakingo - Cakes & Desserts,3.3
+Fresh Fruit Cake [500 gms],599.0,Bakingo - Cakes & Desserts,3.3
+Coffee Walnut Cake [500 gms],599.0,Bakingo - Cakes & Desserts,3.6
+Special Choco Truffle Cake [1 kg],999.0,Bakingo - Cakes & Desserts,4.0
+Heart-Shaped Pinata Cake [1 kg],1299.0,Bakingo - Cakes & Desserts,3.3
+Mango Delight Cake [500 gms],599.0,Bakingo - Cakes & Desserts,3.0
+Choco Ferrero Cake [500 gms],699.0,Bakingo - Cakes & Desserts,3.7
+Heart-Shaped Red Velvet Cake [500 gms],649.0,Bakingo - Cakes & Desserts,4.2
+Designer Pink Rosette Cake [500 gms],599.0,Bakingo - Cakes & Desserts,4.9
+Rainbow Cake [500 gms],599.0,Bakingo - Cakes & Desserts,4.8
+Vanilla Fondant Cake [1 kg],1399.0,Bakingo - Cakes & Desserts,4.7
+Chocolate Anniversary Cake [1 kg],1299.0,Bakingo - Cakes & Desserts,4.3
+Classic Butter Cake [1 kg],799.0,Bakingo - Cakes & Desserts,4.9
+Designer Theme Cake [2 kg],2499.0,Bakingo - Cakes & Desserts,4.0
+Kit-Kat Chocolate Cake [500 gms],599.0,Bakingo - Cakes & Desserts,3.4
+Special Anniversary Cake [1 kg],1299.0,Bakingo - Cakes & Desserts,3.1
+Choco Hazelnut Fondant Cake [2 kg],2699.0,Bakingo - Cakes & Desserts,3.2
+Photo Cupcake Set of 4,549.0,Bakingo - Cakes & Desserts,4.0
+Red Velvet Pinata Cake [1 kg],1499.0,Bakingo - Cakes & Desserts,4.0
+Special Fondant Cake [2 kg],2499.0,Bakingo - Cakes & Desserts,3.9
+Choco Mint Pastry,89.0,Bakingo - Cakes & Desserts,4.0
+Designer White Chocolate Cake [1 kg],1499.0,Bakingo - Cakes & Desserts,3.8
+Tamatar Dhania Shorba,132.0,Kake Da Minar,4.5
+Kukkad Dhania Da Shorba,156.0,Kake Da Minar,4.0
+Mutton Paya Shorba,216.0,Kake Da Minar,4.4
+Veg Hot And Sour Soup,144.0,Kake Da Minar,4.9
+Veg Sweet Corn Soup,144.0,Kake Da Minar,4.2
+Veg Manchow Soup,156.0,Kake Da Minar,3.1
+Chicken Hot And Sour Soup,180.0,Kake Da Minar,4.2
+Chicken Sweet Corn Soup,180.0,Kake Da Minar,4.2
+Chicken Manchow Soup,192.0,Kake Da Minar,3.1
+Paneer Achari Tikka,192.0,Kake Da Minar,4.2
+Paneer Haryali Tikka,275.0,Kake Da Minar,4.7
+Punjabi Paneer Tikka,186.0,Kake Da Minar,4.7
+Paneer Malai Tikka [8 Pcs],396.0,Kake Da Minar,4.3
+Paneer Dilwala Tikka [8 Pcs],396.0,Kake Da Minar,3.9
+Shabnam Ke Moti [12 Pcs],384.0,Kake Da Minar,3.1
+Stuffed Mushroom Tikka [12 Pcs],396.0,Kake Da Minar,3.3
+Khumb Khajana [12 Pcs],396.0,Kake Da Minar,3.8
+Murgh Achari Tikka,384.0,Kake Da Minar,3.3
+Murgh Hariyali Kebab,384.0,Kake Da Minar,4.2
+Murgh Reshmi Kebab,396.0,Kake Da Minar,3.2
+Punjabi Kukkad Tikka,384.0,Kake Da Minar,4.2
+Tandoori Murgh,384.0,Kake Da Minar,3.4
+Bhati Da Lollipop [4 Pcs],354.0,Kake Da Minar,3.8
+Murgh Tangdi Kebab [2 Pcs],324.0,Kake Da Minar,3.8
+Bhati Da Murgh [8 Pcs],384.0,Kake Da Minar,4.3
+Murgh Kali Mirch Tikka [8 Pcs],396.0,Kake Da Minar,3.5
+Mahi Tikka [8 Pcs],420.0,Kake Da Minar,4.5
+Murgh Malai Kebab [8 Pcs],414.0,Kake Da Minar,3.1
+Fish Ajwaini Tikka [8 Pcs],432.0,Kake Da Minar,3.4
+Kasundi Fish Tikka [8 Pcs],432.0,Kake Da Minar,4.4
+Stuffed Tangdi Kebab [2 Pcs],396.0,Kake Da Minar,3.7
+Murgh Nazakat [4 Pcs],480.0,Kake Da Minar,4.0
+Tandoori Jheenga [6 Pcs],540.0,Kake Da Minar,4.5
+Lassoni Dhania Prawn [6 Pcs],552.0,Kake Da Minar,4.3
+Prawn Lucknowi [6 Pcs],552.0,Kake Da Minar,3.5
+Tandoori Pomfret [1 Pc 250 Gm],720.0,Kake Da Minar,3.3
+Dahi Ke Sholey [8 Pcs],288.0,Kake Da Minar,4.9
+Veg And Paneer Momo Steamed [6 Pcs],156.0,Kake Da Minar,3.0
+Crispy Chilli Corn,270.0,Kake Da Minar,4.9
+Hara Bhara Kebab [6 Pcs],300.0,Kake Da Minar,3.9
+Tangra Chilli Baby Corn,270.0,Kake Da Minar,4.1
+Tangra Chilli Mushroom [8 Pcs],282.0,Kake Da Minar,3.9
+Tangra Chilli Paneer [8 Pcs],282.0,Kake Da Minar,4.3
+Chicken Momo Steamed [6 Pcs],168.0,Kake Da Minar,3.2
+Tangra Chilli Chicken [8 Pcs],294.0,Kake Da Minar,3.6
+Spicy Chicken Lollipop [8 Pcs],336.0,Kake Da Minar,3.3
+Fish Finger [8 Pcs],456.0,Kake Da Minar,4.0
+Tangra Chilli Fish [8 Pcs],492.0,Kake Da Minar,3.6
+Tangra Chilli Prawn [8 Pcs],552.0,Kake Da Minar,4.7
+Bali Prawn [4 Pcs],780.0,Kake Da Minar,4.7
+Aloo Jeera,192.0,Kake Da Minar,3.8
+Yellow Dal Butter Fry,192.0,Kake Da Minar,4.9
+Yellow Dal Tadka,204.0,Kake Da Minar,4.4
+Black Dal Tadka,216.0,Kake Da Minar,3.8
+Aloo Matar,240.0,Kake Da Minar,3.1
+Dum Aloo Punjabi,265.0,Kake Da Minar,3.0
+Pindi Choley,265.0,Kake Da Minar,3.1
+Dal Makhani,310.0,Kake Da Minar,3.5
+Aloo Gobi Adraki,300.0,Kake Da Minar,4.7
+Veg Hyderabadi,300.0,Kake Da Minar,4.8
+Veg Patiala,300.0,Kake Da Minar,3.7
+Dal Kake Da Minar,325.0,Kake Da Minar,4.3
+Methi Malai Corn,325.0,Kake Da Minar,3.6
+Malai Kofta,360.0,Kake Da Minar,4.7
+Kadhai Mushroom,350.0,Kake Da Minar,3.2
+Kadhai Paneer,360.0,Kake Da Minar,4.5
+Mattar Paneer,360.0,Kake Da Minar,4.9
+Mushroom Do Pyaza,350.0,Kake Da Minar,4.0
+Mushroom Muttar Masala,350.0,Kake Da Minar,3.6
+Paneer Bhujia,348.0,Kake Da Minar,3.1
+Paneer Taka Tak,360.0,Kake Da Minar,4.8
+Butter Paneer 1965,372.0,Kake Da Minar,3.6
+Mushroom Butter Masala,378.0,Kake Da Minar,3.7
+Palak Paneer,385.0,Kake Da Minar,3.8
+Paneer Lababdar,385.0,Kake Da Minar,3.6
+Sarson Ka Saag With Makki Di Roti,396.0,Kake Da Minar,4.0
+Shahi Paneer,385.0,Kake Da Minar,3.6
+Paneer Pasinda,444.0,Kake Da Minar,4.8
+Egg Bhujia,162.0,Kake Da Minar,4.9
+Egg Omlet,162.0,Kake Da Minar,3.2
+Egg Masala,180.0,Kake Da Minar,4.6
+Vegetable Patties,18.64,Mio Amore,4.6
+Mushroom Puff,25.42,Mio Amore,3.8
+Vegetable Cutlet,18.64,Mio Amore,4.8
+Veg Burger,35.59,Mio Amore,4.3
+Cheese Corn Sandwich,33.9,Mio Amore,3.1
+Chilli Paneer Roll,32.2,Mio Amore,4.7
+Mishtisukh,18.64,Mio Amore,4.0
+Paneer Tikka Sandwich,46.61,Mio Amore,4.4
+Rich Chocolate Doughnut,27.12,Mio Amore,4.2
+Strawberry Doughnut,27.12,Mio Amore,4.3
+Chicken Pizza,49.11,Mio Amore,4.6
+Chicken Patties,28.57,Mio Amore,4.4
+Tandoori Chicken Masala Sub,49.11,Mio Amore,3.2
+Chicken Creamy Roll,28.57,Mio Amore,3.1
+Chicken Finger,24.11,Mio Amore,4.6
+Chicken Cutlet,44.64,Mio Amore,3.2
+Chicken Internet,31.25,Mio Amore,3.9
+Crispy Chicken Burger,48.21,Mio Amore,4.5
+Chicken Marble Sandwich,42.46,Mio Amore,3.1
+Chicken Kebab Sub,39.29,Mio Amore,3.9
+Tea Time Khari,42.37,Mio Amore,4.0
+Golden Wings,42.37,Mio Amore,4.9
+Classic Cheestix,50.85,Mio Amore,3.6
+Salted Cookies [150 g],50.85,Mio Amore,3.6
+Shrewsbury Cookies [150 g],76.27,Mio Amore,4.2
+Chocolate Cookies [150 g],50.85,Mio Amore,4.0
+Cashew Nut Cookies [150 g],50.85,Mio Amore,4.9
+Chocolate Fudge Cookies [150 g],76.27,Mio Amore,3.1
+Fruit and Nut Cookies [150 g],76.27,Mio Amore,4.3
+Multigrain Cookies [150 g],76.27,Mio Amore,4.5
+Butterscotch Delight Pastry,37.29,Mio Amore,4.1
+Pure Chocolate Pastry,45.76,Mio Amore,3.3
+Black Forest Pastry,45.76,Mio Amore,3.5
+Vanilla Tutti Frutti Pastry,32.2,Mio Amore,4.5
+Choco Chips Pastry,42.37,Mio Amore,3.4
+Strawberry Fantasy Pastry,32.2,Mio Amore,4.7
+Choco Vanilla Mousse,46.61,Mio Amore,3.6
+Red Velvet Pastry,45.76,Mio Amore,4.5
+Cappuccino Pastry,37.29,Mio Amore,3.7
+Caramel Pastry,21.19,Mio Amore,3.2
+Choco Crunch Pastry,37.29,Mio Amore,4.9
+Hazelnut Pastry,38.0,Mio Amore,3.4
+"Choco Muffin [300 g, 6 Pieces]",127.12,Mio Amore,3.3
+"Cashew Cup Muffin [300 g, 6 Pieces]",127.12,Mio Amore,4.3
+Chocolate Brownie [50 g],29.66,Mio Amore,4.5
+Chocolate Volcano Cake [100 g],49.15,Mio Amore,4.2
+"Date Walnut Slice [300 g, 5 Pieces]",105.93,Mio Amore,3.0
+"Crown Cake [300 g, 6 Pieces]",87.0,Mio Amore,3.3
+"Banana Slice [275 g, 5 Pieces]",72.0,Mio Amore,4.3
+Brown Bread [400 g],40.0,Mio Amore,3.4
+Sandwich Bread [400 g],38.0,Mio Amore,4.9
+Chocolate [Single],10.17,Mio Amore,3.6
+Choco Mio [Small],59.32,Mio Amore,4.0
+Choco Mio [Large],144.07,Mio Amore,3.6
+Double Heart Chocolate,12.71,Mio Amore,3.9
+Gift of Love,127.12,Mio Amore,3.8
+Tomato Ketchup,1.0,Mio Amore,4.3
+Women's Day Special Cake,423.73,Mio Amore,4.2
+Petal Princess Cake,317.8,Mio Amore,4.3
+Holi Pichkari Cake,296.61,Mio Amore,3.6
+Holi Hai Cake,254.24,Mio Amore,4.2
+Thandai Mousse,50.85,Mio Amore,3.7
+Chicken Sausage Roll,40.18,Mio Amore,4.9
+Strawberry Love Cake,317.8,Mio Amore,4.8
+Blueberry Puree Cake,334.75,Mio Amore,3.1
+Choco Delight Cake,233.05,Mio Amore,4.5
+"Chocolate Heart Cake [Medium, 580 g]",360.17,Mio Amore,3.4
+Butterscotch Delight Medium,338.98,Mio Amore,3.6
+Choco Chips Round Medium,338.98,Mio Amore,4.2
+Choco Chips Round Large,614.41,Mio Amore,4.4
+Red Velvet Heart,360.0,Mio Amore,3.6
+Rasmalai Cake,330.51,Mio Amore,3.9
+Dual Forest Heart Cake,381.36,Mio Amore,3.5
+Hazelnut Cake,338.98,Mio Amore,3.5
+Kesar Pista Cake,317.8,Mio Amore,3.5
+Almond Honey Cake,317.8,Mio Amore,3.3
+Funfetti Cake,279.66,Mio Amore,4.8
+Choco Feather Cake,360.16,Mio Amore,4.7
+Choco Teddy Cake,360.16,Mio Amore,3.8
+Butterscotch Cake,423.72,Mio Amore,3.1
+Egg Patties,21.0,Mio Amore,4.4
+Chicken Manchurian Patties,31.0,Mio Amore,3.5
